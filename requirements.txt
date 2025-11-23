@@ -1,0 +1,6 @@
+nonebot2>=2.4.4
+nonebot-plugin-apscheduler>=0.5.0
+nonebot-adapter-onebot>=2.3.0
+websockets>=10.4
+httpx>=0.24.1
+aiocron>=1.8.0

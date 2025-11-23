@@ -1,0 +1,15 @@
+{
+  "global_config" : {
+    "triggerCount" : 2,
+    "keywords" : "场照 接妆 接单",
+    "textMessage" : "全局统一文本内容",
+    "imagePath" : "global_image.png"
+  },
+  "target_groups" : [ {
+    "id" : 975775010,
+    "enabled" : true
+  }, {
+    "id" : 1111,
+    "enabled" : true
+  } ]
+}
